@@ -1,1 +1,1 @@
-﻿Message: Modified by Branch A
+﻿Message: Resolved using changes from Branch A and Branch B
